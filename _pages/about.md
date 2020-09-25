@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm learning about AI and NLP.
+I plan to post some information here that helped me to set up my own machine. So often I've found a solution to a problem and immediately moved on to the next problem. Then when I come across the same problem months later I can't remember how I solved it. Instead I would like to slow down a bit and record the solutions I've found. Since it's easy enough to publish those I might as well. Maybe someone else is looking for the same solution.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Peace.
+David.
