@@ -6,7 +6,7 @@
 
 https://davidbaines.github.io/journal/
 
-# My Blog
+# My Journal
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
